@@ -1,0 +1,20 @@
+{}  {
+    "id": 1,
+    "truckName": "Renault Magnum",
+    "state": "ON_THE_BASE"
+  },
+  {
+    "id": 2,
+    "truckName": "Volvo FH12",
+    "state": "ON_THE_BASE"
+  },
+  {
+    "id": 3,
+    "truckName": "DAF XF",
+    "state": "ON_THE_BASE"
+  }
+]"DAF XF",
+    "driver" : null,
+    "state": "ON_THE_BASE"
+  }
+]
